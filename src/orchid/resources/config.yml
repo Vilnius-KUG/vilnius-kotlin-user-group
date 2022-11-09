@@ -3,7 +3,7 @@ site:
     siteName: 'Vilnius KUG'
     subtitle: 'Vilnius Kotlin User Group'
     siteDescription: 'This is a short blurb you can set below this index layouts sidebar.'
-    avatar: '/assets/media/logo.jpg'
+    avatar: '/assets/media/Kotlin_UG_logo.png'
   theme: 'FutureImperfect'
   baseUrl: 'netlify'
 
@@ -27,7 +27,7 @@ theme:
       includeTerms: true
       termsAtRoot: true
     - type: 'page'
-      title: 'About'
+      title: 'Abouttttt'
       itemId: 'Author One'
     - type: "pages"
       atRoot: true
