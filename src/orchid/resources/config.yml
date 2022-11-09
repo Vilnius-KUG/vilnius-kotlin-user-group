@@ -1,9 +1,9 @@
 site:
   about:
-    siteName: 'Orchid Starter'
-    subtitle: 'Basic starter repo to get going with Orchid quickly'
-    siteDescription: 'This is a short blurb you can set below this index layouts sidebar.'
-    avatar: '/assets/media/logo.jpg'
+    siteName: 'Vilnius KUG'
+    subtitle: 'Vilnius Kotlin User Group'
+    siteDescription: 'Welcome to Kotlin Vilnius meetup group! We are a bunch of friendly Kotlin enthusiasts from all different backgrounds interested in learning Kotlin language which will take over programming world.'
+    avatar: '/assets/media/Kotlin_UG_logo.png'
   theme: 'FutureImperfect'
   baseUrl: 'netlify'
 
@@ -11,7 +11,6 @@ theme:
   social:
     facebook: 'facebookUsername'
     twitter: 'twitterHandle'
-    instagram: 'instagramHandle'
     github: 'githubUsername'
     other:
       - label: 'linkedin'
@@ -21,23 +20,8 @@ theme:
     - type: 'page'
       title: 'Home'
       url: '/'
-    - type: "wikiSections"
-    - type: 'taxonomy'
-      taxonomyType: 'categories'
-      includeTerms: true
-      termsAtRoot: true
-    - type: 'page'
-      title: 'About'
-      itemId: 'Author One'
     - type: "pages"
       atRoot: true
-    - type: groupPages
-      collectionType: pages
-      collectionId: allPages
-      groups:
-        - 'group1'
-        - 'group2'
-        - 'group3'
   sidebar:
     - type: recentPosts
       limit: 3
@@ -45,12 +29,6 @@ theme:
       noWrapper: true
       template:
         - 'includes/postPreview_mini'
-    - type: recentPosts
-      limit: 5
-      category: personal
-      noWrapper: true
-      template:
-        - 'includes/postPreview_list'
   extraCss:
     - 'assets/css/extraCss.scss'
     - 'assets/css/pygments.scss'
