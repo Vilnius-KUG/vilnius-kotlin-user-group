@@ -1,6 +1,6 @@
 ---
-title: 'Author One'
-name: 'Author One'
+title: 'Vilnius KUG'
+name: 'Vilnius KUG'
 avatar: '/assets/images/avatar.jpg'
-email: 'cjbrooks12@gmail.com'
+email: 'kug.vilnius@gmail.com'
 ---
