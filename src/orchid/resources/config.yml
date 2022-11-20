@@ -9,13 +9,8 @@ site:
 
 theme:
   social:
-    facebook: 'facebookUsername'
-    twitter: 'twitterHandle'
-    github: 'githubUsername'
-    other:
-      - label: 'linkedin'
-        link: 'https://www.example.com'
-        icon: 'fa-tag'
+    twitter: 'vilnius_kug'
+    github: 'Vilnius-KUG'
   menu:
     - type: 'page'
       title: 'Home'
