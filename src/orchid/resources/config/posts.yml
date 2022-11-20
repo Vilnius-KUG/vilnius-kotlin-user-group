@@ -1,7 +1,7 @@
 permalink: ':category/:year/:monthName/:slug'
 categories:
-  - key: 'category1'
-    title: 'Category 1'
+  - key: 'meetups'
+    title: 'MeetUps'
   - key: 'category2'
     title: 'Category 2'
 authors:
