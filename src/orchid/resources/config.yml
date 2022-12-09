@@ -12,9 +12,9 @@ theme:
     twitter: 'vilnius_kug'
     github: 'Vilnius-KUG'
   menu:
-    - type: 'page'
-      title: 'Home'
-      url: '/'
+#    - type: 'page'
+#      title: 'Home'
+#      url: '/'
     - type: "pages"
       atRoot: true
   sidebar:
