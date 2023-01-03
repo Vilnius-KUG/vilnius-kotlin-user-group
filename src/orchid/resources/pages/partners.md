@@ -4,7 +4,7 @@ description: Partners
 type: 'pageContent'
 ---
 
-![Flo logo](assets/media/Flo_logo_1080x1080.png)
+![Flo logo](/assets/media/Flo_logo_1080x1080.png)
 
 [Flo](https://flo.health/) is the essential female health partner. We are building a better future for female health by helping women & people who menstruate harness the power of their body signals.
 
