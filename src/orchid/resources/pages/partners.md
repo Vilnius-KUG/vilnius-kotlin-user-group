@@ -11,7 +11,7 @@ type: 'pageContent'
 At [Flo](https://flo.health/) our Android engineers are excited about Kotlin -- the basis for the app on Android platform. We are now migrating to Coroutines, began adopting Jetpack Compose and use KScript as the replacement of Bash for the build scripts.
 
 ### Flo in numbers:
-- 🥇**1** period tracker in the USA by active audience
-- 🥇**1** most downloaded female health app worldwide
-- **50** million monthly active users  
-- **250** million installs
+- 🥇**1**st period tracker in the USA by active audience
+- 🥇**1**st most downloaded female health app worldwide
+- 5️⃣0️⃣ million monthly active users  
+- 2️⃣5️⃣0️⃣ million installs
