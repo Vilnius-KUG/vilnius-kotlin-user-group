@@ -14,10 +14,10 @@ next: 'category1'
 Welcome to Kotlin Vilnius meetup group! We are a bunch of friendly Kotlin enthusiasts from all different backgrounds
 interested in learning Kotlin language which will take over programming world.
 
-Please, come and join us to learn Kotlin language and the ecosystem surrounding it. The group is designed for everybody.
-From a beginner who just started the first steps in programming to ninja coder who wants to get deep into the language.
+Please, come and join us to learn Kotlin language and the ecosystem surrounding it. The group is intended for everybody.
+From a beginner who just started the first steps in programming, to ninja coders who want to get deep into the language.
 Everyone will find something to take away.
 
-If you are interested in giving a talk please send an email to <kug.vilnius@gmail.com>
+If you are interested in giving a talk please email to <kug.vilnius@gmail.com>
 
 Look forward to meeting you soon!
