@@ -6,7 +6,7 @@ We are a community interested to spread a good word of Kotlin in 🇱🇹. This 
 
 Who we are?
 ---
-- Vladislav Ermolin [Vlad's contact if he wants to share]
+- Vladislav Ermolin [LinkedIn](https://www.linkedin.com/in/vladislav-ermolin-83566385/)
 - Robertas Šetkus [@rsetkus](https://twitter.com/rsetkus)
 
 Contact us
