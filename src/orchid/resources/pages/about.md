@@ -11,4 +11,4 @@ Who we are?
 
 Contact us
 ---
-Vilnius Kotlin User Group is open community. Everybody is welcome to team up. Please, drop us a message on twitter [@Vilnius KUG](https://twitter.com/vilnius_kug). Also, you can find us on kotlinlang Slack, in the #lithuania channel.
+Vilnius Kotlin User Group is open community. Everybody is welcome to team up. Please, drop us a message on twitter [@VilniusKotlin](https://twitter.com/vilniuskotlin). Also, you can find us on kotlinlang Slack, in the #lithuania channel.
