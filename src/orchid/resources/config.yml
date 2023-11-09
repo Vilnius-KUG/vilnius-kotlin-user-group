@@ -4,13 +4,18 @@ site:
     subtitle: 'Vilnius Kotlin User Group'
     siteDescription: 'Welcome to Kotlin Vilnius meetup group! We are a bunch of friendly Kotlin enthusiasts from all different backgrounds interested in learning Kotlin language which will take over programming world.'
     avatar: '/assets/media/Kotlin_UG_logo.png'
+    social:
+      twitter: 'vilniuskotlin' 
+      github: 'Vilnius-KUG'
+      other:
+        - label: 'linkedin'
+          link: 'https://www.linkedin.com/groups/9543313/'
+          icon: 'fa-linkedin-square'
+          order: 60
   theme: 'FutureImperfect'
   baseUrl: 'netlify'
 
 theme:
-  social:
-    twitter: 'vilniuskotlin'
-    github: 'Vilnius-KUG'
   menu:
 #    - type: 'page'
 #      title: 'Home'
