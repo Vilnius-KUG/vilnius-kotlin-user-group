@@ -30,3 +30,5 @@ proguard/
 
 # Google Analytics
 /**/templates/meta.twig
+
+.DS_Store
